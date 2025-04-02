@@ -10,29 +10,17 @@
 
       <changefreq>monthly</changefreq>
 
-      <alternate>/v1/overview.html</alternate>
-
-      <alternate>/v2/overview.html</alternate>
-
    </url>
 
    <url>
 
       <loc>/v2/overview.html</loc>
 
-      <alternate>/current/overview.html</alternate>
-
-      <alternate>/v2/overview.html</alternate>
-
    </url>
 
    <url>
 
       <loc>/v3/overview.html</loc>
-
-      <alternate>/current/overview.html</alternate>
-
-      <alternate>/v1/overview.html</alternate>
 
    </url>
 
