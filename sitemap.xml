@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <url>
-        <loc>/v1/overview.html</loc>
-        <xhtml:link rel="alternate" href="/v1/overview.html"/>
-        <xhtml:link rel="alternate" href="/v2/overview.html"/>
-        <xhtml:link rel="alternate" href="/current/overview.html"/>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>/v2/overview.html</loc>
-        <xhtml:link rel="alternate" href="/v1/overview.html"/>
-        <xhtml:link rel="alternate" href="/v2/overview.html"/>
-        <xhtml:link rel="alternate" href="/current/overview.html"/>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>/current/overview.html</loc>
-        <xhtml:link rel="alternate" href="/v1/overview.html"/>
-        <xhtml:link rel="alternate" href="/v2/overview.html"/>
-        <xhtml:link rel="alternate" href="/current/overview.html"/>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-</urlset> 
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>/current/overview.html</loc>
+
+      <lastmod>2025-04-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>/v2/overview.html</loc>
+
+      <lastmod>2025-04-01</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>/v3/overview.html</loc>
+
+      <lastmod>2025-04-01</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+</urlset>
