@@ -10,7 +10,9 @@
 
       <changefreq>monthly</changefreq>
 
-      <priority>0.8</priority>
+      <alternate>/v1/overview.html</alternate>
+
+      <alternate>/v2/overview.html</alternate>
 
    </url>
 
@@ -18,9 +20,9 @@
 
       <loc>/v2/overview.html</loc>
 
-      <lastmod>2025-04-01</lastmod>
+      <alternate>/current/overview.html</alternate>
 
-      <changefreq>weekly</changefreq>
+      <alternate>/v2/overview.html</alternate>
 
    </url>
 
@@ -28,9 +30,9 @@
 
       <loc>/v3/overview.html</loc>
 
-      <lastmod>2025-04-01</lastmod>
+      <alternate>/current/overview.html</alternate>
 
-      <changefreq>weekly</changefreq>
+      <alternate>/v1/overview.html</alternate>
 
    </url>
 
