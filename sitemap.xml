@@ -4,7 +4,7 @@
 
    <url>
 
-      <loc>/index.html</loc>
+      <loc>/doc-versions-test/index.html</loc>
 
       <changefreq>weekly</changefreq>
 
@@ -14,7 +14,7 @@
 
    <url>
 
-      <loc>/current/overview.html</loc>
+      <loc>/doc-versions-test/current/overview.html</loc>
 
       <changefreq>weekly</changefreq>
 
@@ -24,7 +24,7 @@
 
    <url>
 
-      <loc>/v1/overview.html</loc>
+      <loc>/doc-versions-test/v1/overview.html</loc>
 
       <changefreq>monthly</changefreq>
 
@@ -34,7 +34,7 @@
 
    <url>
 
-      <loc>/v2/overview.html</loc>
+      <loc>/doc-versions-test/v2/overview.html</loc>
 
       <changefreq>monthly</changefreq>
 
