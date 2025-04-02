@@ -15,7 +15,10 @@
     },
     {
       "src": "/sitemap.xml",
-      "dest": "/sitemap.xml"
+      "dest": "/sitemap.xml",
+      "headers": {
+        "Content-Type": "application/xml"
+      }
     }
   ]
 } 
