@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/v1/(.*)",
+      "dest": "/v1/$1"
+    },
+    {
+      "src": "/v2/(.*)",
+      "dest": "/v2/$1"
+    },
+    {
+      "src": "/current/(.*)",
+      "dest": "/current/$1"
+    }
+  ]
+} 
