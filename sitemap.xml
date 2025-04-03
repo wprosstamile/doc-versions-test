@@ -15,8 +15,8 @@
    <url>
 
       <loc>/doc-versions-test/current/overview.html</loc>
-      <xhtml:link rel="alternate" href="/doc-versions-test/v1/overview.html"/>
-      <xhtml:link rel="alternate" href="/doc-versions-test/v2/overview.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="/doc-versions-test/v1/overview.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="/doc-versions-test/v2/overview.html"/>
 
       <changefreq>weekly</changefreq>
 
@@ -28,8 +28,8 @@
 
       <loc>/doc-versions-test/v1/overview.html</loc>
 
-      <xhtml:link rel="alternate" href="/doc-versions-test/current/overview.html"/>
-      <xhtml:link rel="alternate" href="/doc-versions-test/v2/overview.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="/doc-versions-test/current/overview.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="/doc-versions-test/v2/overview.html"/>
 
       <changefreq>monthly</changefreq>
 
@@ -41,8 +41,8 @@
 
       <loc>/doc-versions-test/v2/overview.html</loc>
 
-      <xhtml:link rel="alternate" href="/doc-versions-test/current/overview.html"/>
-      <xhtml:link rel="alternate" href="/doc-versions-test/v1/overview.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="/doc-versions-test/current/overview.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="/doc-versions-test/v1/overview.html"/>
 
       <changefreq>monthly</changefreq>
 
